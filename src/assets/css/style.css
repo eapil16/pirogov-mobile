@@ -2283,6 +2283,10 @@ a.page-link.disabled svg path {
   margin: 20px 0 20px 0;
 }
 
+.tab-content li.page-item {
+  margin: 0 5px 0 0;
+}
+
 .doctors-hidd {
   overflow: hidden;
   margin: 0 0 30px 0;
